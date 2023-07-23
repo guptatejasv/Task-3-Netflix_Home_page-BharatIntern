@@ -373,3 +373,111 @@ ul li {
     margin-top: 20px;
     color: #e1d7d7;
 }
+@media screen and (max-width:960px){
+    .main__heading {
+        font-size: 2rem;
+        font-weight: 700;
+        
+    }
+    .section2_div_main {
+        flex-direction: column;
+    }
+    .section2_mainheading h1 {
+        font-size: 2em;
+        font-weight: 700;
+    }
+    .section2_heading {
+        width: 100%;
+        text-align: center;
+    }
+    .section2_subheading p {
+        font-size: 20px;
+    }
+    /* section 3 */
+    .section3_div_main {
+        flex-direction: column;
+        align-items: center;
+    }
+    .section3_mainheading h1 {
+        font-size: 2em;
+        font-weight: 700;
+    }
+    .section3_heading {
+        width: 100%;
+        text-align: center;
+    }
+    .section3_subheading p {
+        font-size: 20px;
+    }
+    .section3_heading {
+        order: 0;
+       
+        
+        }
+        /*  section 4*/
+        .section4_div_main {
+            flex-direction: column;
+            align-items: center;
+        }
+        .section4_mainheading h1 {
+            font-size: 2em;
+            font-weight: 700;
+        }
+        .section4_heading {
+            width: 100%;
+            text-align: center;
+        }
+        .section4_subheading p {
+            font-size: 20px;
+        }
+        .section4_heading {
+            order: 0;
+           
+            
+            }
+            /* section 5 */
+             .section5_div_main {
+            flex-direction: column;
+            align-items: center;
+        }
+        .section5_mainheading h1 {
+            font-size: 2em;
+            font-weight: 700;
+        }
+        .section5_heading {
+            width: 100%;
+            text-align: center;
+        }
+        .section5_subheading p {
+            font-size: 20px;
+        }
+        .section5_heading {
+            order: 0;
+           
+            
+            }
+        /* section 6 */
+        .section6_heading  {
+            font-size: 1.5em;
+            font-weight: 700;
+        }
+        .faq {
+            width: 95%;
+            
+           
+        }
+        .Questions {
+            font-size: 15px;
+            padding: 10px;
+        }
+        .answer {
+            font-size: 17px;
+            padding: 10px;
+        }
+        /* section 7 */
+        .section7_content {
+            width: 95%;
+        }
+    
+}
+
